@@ -2324,7 +2324,7 @@ input, select, textarea {
 				background: #fff;
 				position: relative;
 				display: inline-block;
-				padding: 0 0em 0 0em;
+				padding: 0 1em 0 1em;
 				top: -0.65em;
 			}
 
