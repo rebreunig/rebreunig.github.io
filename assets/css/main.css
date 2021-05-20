@@ -2324,7 +2324,7 @@ input, select, textarea {
 				background: #fff;
 				position: relative;
 				display: inline-block;
-				padding: 0 1em 0 1em;
+				padding: 0 0.5em 0 0.5em;
 				top: -0.65em;
 			}
 
@@ -2495,7 +2495,7 @@ input, select, textarea {
 			background-repeat: repeat, no-repeat;
 			text-align: center;
 			margin: 0;
-			padding: 4em 0 3.5em 0;
+			padding: 1em 0 0.5em 0;
 		}
 
 			#banner .content h2 {
