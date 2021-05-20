@@ -2325,7 +2325,7 @@ input, select, textarea {
 				background: #fff;
 				position: relative;
 				display: inline-block;
-				padding: 0 0.5em 0 0.5em;
+				padding: 0 1em 0 1em;
 				top: -0.65em;
 			}
 
@@ -2479,7 +2479,7 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
 		background-size: auto, auto, cover;
