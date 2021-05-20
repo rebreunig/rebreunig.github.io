@@ -2318,6 +2318,7 @@ input, select, textarea {
 			text-align: center;
 			border-top: solid 5px #e7eae8;
 			top: 0.65em;
+			padding: 0 0em 0 0em;
 		}
 
 			#header .logo div {
