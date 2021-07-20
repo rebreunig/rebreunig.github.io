@@ -2,6 +2,10 @@
 @import url("academicons.min.css");
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic|Open+Sans+Condensed:700");
 
+i[class^="fab-"]:before {
+	display: inline-block;
+	text-decoration: none;
+}
 /*
 	TXT by HTML5 UP
 	html5up.net | @ajlkn
