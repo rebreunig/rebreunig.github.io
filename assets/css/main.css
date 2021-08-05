@@ -2291,7 +2291,7 @@ input, select, textarea {
 		}
 
 		.icon.solid:before {
-			font-weight: 900;
+			font-weight: 400;
 		}
 
 		.icon.brands:before {
