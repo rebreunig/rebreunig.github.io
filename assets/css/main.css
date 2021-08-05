@@ -1826,7 +1826,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #00a5ab;
+			background: #a1cd9b;
 		}
 
 		input[type="button"].alt,
@@ -2122,7 +2122,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #00a5ab;
+			border-color: #a1cd9b;
 		}
 
 	form input[type="text"],
@@ -2298,41 +2298,6 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 	
-
-.fas {
-		text-decoration: none;
-		position: relative;
-		text-decoration: none;
-	}
-
-		.fas:before {
-			-moz-osx-font-smoothing: grayscale;
-			-webkit-font-smoothing: antialiased;
-			display: inline-block;
-			font-style: normal;
-			font-variant: normal;
-			text-rendering: auto;
-			line-height: 1;
-			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
-		}
-
-		.fas:before {
-			line-height: inherit;
-		}
-
-		.fas > .label {
-			display: none;
-		}
-
-		.fas.solid:before {
-			font-weight: 900;
-		}
-
-		.fas.brands:before {
-			font-family: 'Font Awesome 5 Brands';
-		}
 
 /* Page Wrapper */
 
@@ -2875,7 +2840,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:active:before {
-						background-color: #00a5ab;
+						background-color: #a1cd9b;
 					}
 
 			#navPanel {
