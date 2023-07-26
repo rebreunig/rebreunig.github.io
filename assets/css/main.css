@@ -2321,7 +2321,8 @@ input, select, textarea {
 		#header .logo {
 			position: relative;
 			text-align: center;
-			border-top: solid 3px #e7eae8; <!-- solid 5px #e7eae8;-->
+			border-top: solid 1px #e7eae8; <!-- solid 5px #e7eae8;-->
+			border-bottom: solid 1px #e7eae8;
 			top: 0.65em;
 			padding: 0 0em 0 0em;
 		}
