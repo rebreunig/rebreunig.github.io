@@ -2313,7 +2313,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		padding: 1em 0; <!-- 2em 0;-->
+		padding: 2em 0;
 		background: #fff;
 		margin: 0 auto;
 	}
@@ -2321,8 +2321,8 @@ input, select, textarea {
 		#header .logo {
 			position: relative;
 			text-align: center;
-			border-top: solid 0px #e7eae8; <!-- solid 5px #e7eae8;-->
-			border-bottom: solid 0px #e7eae8;
+			border-top: solid 5px #e7eae8;
+			<!--border-bottom: solid 0px #e7eae8;-->
 			top: 0.65em;
 			padding: 0 0em 0 0em;
 		}
